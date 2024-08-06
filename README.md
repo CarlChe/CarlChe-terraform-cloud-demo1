@@ -1,2 +1,2 @@
-# CarlChe-terraform-cloud-demo1
+# terraform-cloud-demo1
 Terraform Cloud Demo
